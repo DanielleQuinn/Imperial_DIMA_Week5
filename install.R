@@ -1,1 +1,1 @@
-install.packages(c("readxl", "clue", "ggplot2))
+install.packages(c("readxl", "clue", "ggplot2"))
